@@ -1,6 +1,4 @@
 """
-Name: Joseph Lin
-Date: 1/30/2025
 Course: CMSC437
 
 Program: Eliza - Psychotherapist Chatbot
